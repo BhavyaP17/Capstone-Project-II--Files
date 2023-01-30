@@ -1,0 +1,5 @@
+admin, Register Users with taskManager.py, Use taskManager.py to add the usernames and passwords for all team members that will be using this program., 10 Oct 2019, 20 Oct 2019, No
+admin, Assign initial tasks, Use taskManager.py to assign each team member with appropriate tasks, 10 Oct 2019, 25 Oct 2019, No
+bhavya, capstone project, Capstone project II using list and loops, 29 Dec 2022, 01 Jan 2023, No
+bhavya, capstone project II, capstone project testing with different scenario, 29 Dec 2022, 03 Jan 2023, No
+bhavya, capstone project II , capstone project II testing with invalid values , 29 Dec 2022, 03 Jan 2023, No
